@@ -8,7 +8,7 @@
 
 # CONSUL DEMOCRACY
 
-Citizen Participation and Open Government Application
+Citizen Participation and Open Government Application.
 
 ![Build status](https://github.com/consul/consul/workflows/tests/badge.svg)
 [![Code Climate](https://codeclimate.com/github/consul/consul/badges/gpa.svg)](https://codeclimate.com/github/consul/consul)
